@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/piyush_portfolio/static/css/main.ab90fc8a.css",
-    "main.js": "/piyush_portfolio/static/js/main.9dfc16d5.js",
+    "main.js": "/piyush_portfolio/static/js/main.4a65828a.js",
     "static/js/415.4d6acbeb.chunk.js": "/piyush_portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/piyush_portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Piyush Resume.pdf": "/piyush_portfolio/static/media/Piyush Resume.5f6841c0facf90dbc43c.pdf",
@@ -12,12 +12,12 @@
     "static/media/pre.svg": "/piyush_portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/piyush_portfolio/index.html",
     "main.ab90fc8a.css.map": "/piyush_portfolio/static/css/main.ab90fc8a.css.map",
-    "main.9dfc16d5.js.map": "/piyush_portfolio/static/js/main.9dfc16d5.js.map",
+    "main.4a65828a.js.map": "/piyush_portfolio/static/js/main.4a65828a.js.map",
     "415.4d6acbeb.chunk.js.map": "/piyush_portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/piyush_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab90fc8a.css",
-    "static/js/main.9dfc16d5.js"
+    "static/js/main.4a65828a.js"
   ]
 }
