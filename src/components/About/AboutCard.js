@@ -11,7 +11,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Piyush Hingu </span>
               from <span className="purple"> Amrali, India.</span>
-            <br />I done my Btech in computer enginerring from L.J. institute of emgenerring,Ahamdabad 
+            <br />I completed my M.Tech in Computer Science and Engineering from IIT Tirupati and my B.Tech from Gujarat University. 
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -21,7 +21,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
+              <ImPointRight /> Writing Tech Blogs
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
