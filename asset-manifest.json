@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/piyush_portfolio/static/css/main.e59f924c.css",
-    "main.js": "/piyush_portfolio/static/js/main.3b0e60c4.js",
+    "main.js": "/piyush_portfolio/static/js/main.ea904b2e.js",
     "static/js/415.4d6acbeb.chunk.js": "/piyush_portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/piyush_portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Piyush Resume.pdf": "/piyush_portfolio/static/media/Piyush Resume.5f6841c0facf90dbc43c.pdf",
+    "static/media/codeEditor.png": "/piyush_portfolio/static/media/codeEditor.ba9458794dca1c746ef2.png",
+    "static/media/leaf.png": "/piyush_portfolio/static/media/leaf.4c15d6eb3fc75cfef85b.png",
     "static/media/home-main.svg": "/piyush_portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/piyush_portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/MTeck_s_Resume.pdf": "/piyush_portfolio/static/media/MTeck_s_Resume.b271174614d56420a4de.pdf",
     "static/media/home-bg.jpg": "/piyush_portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/emotion.jpeg": "/piyush_portfolio/static/media/emotion.e92e314a236f65bb89af.jpeg",
     "static/media/avatar.svg": "/piyush_portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/piyush_portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/piyush_portfolio/index.html",
     "main.e59f924c.css.map": "/piyush_portfolio/static/css/main.e59f924c.css.map",
-    "main.3b0e60c4.js.map": "/piyush_portfolio/static/js/main.3b0e60c4.js.map",
+    "main.ea904b2e.js.map": "/piyush_portfolio/static/js/main.ea904b2e.js.map",
     "415.4d6acbeb.chunk.js.map": "/piyush_portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/piyush_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e59f924c.css",
-    "static/js/main.3b0e60c4.js"
+    "static/js/main.ea904b2e.js"
   ]
 }
